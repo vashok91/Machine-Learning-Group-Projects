@@ -9,4 +9,4 @@ Machine Learning Group Projects from my Masters in Data Science and Analytics Pr
 
 4.) Restaurant Yelp Review Project (Yelp_Reviews_Topic_Modeling.ipynb) - Identify the rating out of five stars of a restaurant based on the comment on Yelp from a customer.
 
-5.) Real or Fake News Detection (bp_Fakebook_Final_V2.ipynb) - Detect whether a new article is real or fake
+5.) Real or Fake News Detection (bp_Fakebook_Final_V2.ipynb) - Detect whether a news article is real or fake.
